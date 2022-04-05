@@ -1,0 +1,1415 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m-.json",
+  "type": "AnnotationPage",
+  "label": "Cheryl M.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "of Harrisonburg?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "37.44,38.43"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You were born and raised here?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "40.32,42.42"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Right here on Gay Street or?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "43.83,45.54"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "What was it like growing up in Harrisonburg? What was Harrisonburg like while you were growing up?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "74.97,81.09"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Where did you go to school at?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "118.74,120.30"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "What was your favorite subject? [Mary says \"huh?] What was your favorite subject?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "201.76,206.17"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Aquatic...",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "273.31,274.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughs] So how was being a teenager here in Harrisonburg? What did you do for fun?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "284.44,293.71"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yes ma'am I know, the cast iron ones that you heated up he",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "312.00,315.30"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now living here in Harrisonburg you had running water and...",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "338.49,341.94"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Hmm. Well what year was that? Do you remember?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "390.63,394.05"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In the 20's? And that was when the town did (the two start speaking simultaneously, difficult to discern what each is saying) that then was",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "402.87,409.44"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "When did you get running water?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "413.70,415.41"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "30's?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "426.90,427.41"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And what about electricity?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "433.38,434.88"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Were there a lot of cars here in Harrisonburg?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "489.72,492.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughs]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "546.39,546.42"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughs]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "548.52,548.55"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now how did you get around to places? Did everybody just walk or did you have horses?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "557.40,562.44"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You walked? So you walked to school?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "563.58,565.92"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And that's because the schools were segregated back then right?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "596.35,599.44"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughs]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "612.08,613.79"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughs]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "752.69,752.72"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "They do they just teach-",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "757.58,758.81"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Eighth grade I think, instead of in high school now they teach in eighth grade.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "759.71,763.67"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "My son had civics when he was in the eighth grade.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "772.28,775.37"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oh yes ma'am. So when you graduated from high school in 1930 and you wanted to go to college...",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "778.50,786.66"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Keister Elementary? The one that...",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "841.53,843.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughs] Well that's wonderful.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1,060.95,1,062.12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughs]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1,103.19,1,103.22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Where did you stay?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1,108.38,1,109.43"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "How come?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1,145.28,1,145.94"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "How much were you paid for teaching there?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1,217.33,1,219.43"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well that's pretty good.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1,222.19,1,223.39"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1,225.10,1,225.76"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Did you get to come home at all during those two years?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1,245.19,1,248.10"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Some?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1,249.45,1,250.02"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So you taught them for two years and decided you wanted to go to college?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1,314.28,1,319.05"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Where was that at? You said Petersburg Virginia?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1,509.71,1,513.25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "What's it called now is it still called Virginia State or...?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1,521.86,1,524.80"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now where did you do that on campus?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1,933.85,1,935.14"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughs]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1,974.48,1,974.84"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Teaching certificate?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,010.11,2,011.22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So was that four years total? Or [Mary starts to say \"no two\"] two years total? To get a [Mary says \"two years\"] teaching certificate.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,013.14,2,020.43"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Was where?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,033.72,2,034.98"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Staunton?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,035.78,2,036.47"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Where was that at in Staunton?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,041.84,2,043.46"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Did they- didn't have the Simms school then?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,053.79,2,056.31"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But it was here but then?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,060.05,2,061.64"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now this was in 1934?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,107.56,2,109.93"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "34. Now, had they already built Simms school in '34?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,119.80,2,124.72"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "no?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,125.98,2,126.49"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Oh, okay. So you got to teach in Staunton.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,129.63,2,132.45"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "No!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,163.59,2,164.13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ahhh.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,199.65,2,199.68"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You were up there for 24 years?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,292.09,2,293.83"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But they named it after her?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,318.23,2,319.88"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The one that you went to?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,327.83,2,328.85"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cedar Run?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,344.05,2,344.92"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, I know the person researching I'll tell you about that later.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,352.97,2,356.39"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "How do you spell that? [Mary asks \"Which one?\"] Effinger?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,371.51,2,374.57"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Yeah they were builders, he and his brothers, all of them were builders.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,418.95,2,429.03"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And you said he was part Irish and part Native American?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,429.09,2,432.24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mhm, I saw his picture. Do you know what tribe he was with?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,436.72,2,439.69"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Your mother?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,487.99,2,488.65"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You talking about in the 40's or in 1940?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,562.99,2,566.83"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m--annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You were talking about it's hard for the men here in town. They didn't have any jobs.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2,607.70,2,611.78"
+        }
+      }
+    }
+  ]
+}
