@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "MAF Example sans Audacity" ] },
+    "summary": { "en": [ "This is an oral history that was transcribed using Otter.ai. After cleaning up the transcription, the Otter conversation was exported as an SRT file with \"Include speaker names\" checked and \"Add line breaks automatically\" unchecked. A Python script was used to derive an AudiAnnotate-ready TSV file." ] },
+    "items": [
+    ]
+}
