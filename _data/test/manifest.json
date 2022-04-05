@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://KevinHegg.github.io/maf-example/test/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Test" ] },
+    "label": { "en": [ "test" ] },
     "items": [
       {
         "id": "https://KevinHegg.github.io/maf-example/test/canvas-1/canvas",

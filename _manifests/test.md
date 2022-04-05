@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: Test
+title: test
 manifest_name: test
 
 ---
