@@ -1,0 +1,9 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://KevinHegg.github.io/maf-example/test/canvas-1/canvas/-font-color---0a3c53---b-speaker--b---font-.json",
+  "type": "AnnotationPage",
+  "label": "<font color=\"#0a3c53\"><b>Speaker</b></font>",
+  "items": [
+
+  ]
+}

@@ -8,6 +8,38 @@
         "id": "https://KevinHegg.github.io/maf-example/test/canvas-1/canvas",
         "type": "Canvas",
         "duration": 632,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://KevinHegg.github.io/maf-example/test/canvas-1/canvas/environment.json",
+            "label": "Environment"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://KevinHegg.github.io/maf-example/test/canvas-1/canvas/transcription.json",
+            "label": "Transcription"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://KevinHegg.github.io/maf-example/test/canvas-1/canvas/-font-color---0a3c53---b-speaker--b---font-.json",
+            "label": "\u003cfont color=\"#0a3c53\"\u003e\u003cb\u003eSpeaker\u003c/b\u003e\u003c/font\u003e"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://KevinHegg.github.io/maf-example/test/canvas-1/canvas/speaker.json",
+            "label": "Speaker"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://KevinHegg.github.io/maf-example/test/canvas-1/canvas/-font-color--green---b-speaker--b---font-.json",
+            "label": "\u003cfont color=\"green\"\u003e\u003cb\u003eSpeaker\u003c/b\u003e\u003c/font\u003e"
+          }
+        ],
         "items": [
           {
             "id": "https://KevinHegg.github.io/maf-example/test/canvas-1/paintings",
