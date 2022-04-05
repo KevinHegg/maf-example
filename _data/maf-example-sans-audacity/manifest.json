@@ -8,6 +8,20 @@
         "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2798.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/mary-awkard-fairfax.json",
+            "label": "Mary Awkard Fairfax"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/canvas/cheryl-m-.json",
+            "label": "Cheryl M."
+          }
+        ],
         "items": [
           {
             "id": "https://KevinHegg.github.io/maf-example/maf-example-sans-audacity/canvas-1/paintings",
